@@ -1,1 +1,3 @@
-# Snake
+# Snake - training project
+## Language:
+- python
